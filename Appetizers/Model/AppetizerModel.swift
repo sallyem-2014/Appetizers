@@ -9,13 +9,13 @@ import Foundation
 
 
 struct AppetizerModel: Decodable {
-    let carbs, id: Int?
-    let price: Double?
-    let protein: Int?
-    let imageURL: String?
-    let description: String?
-    let calories: Int?
-    let name: String?
+    let carbs, id: Int
+    let price: Double
+    let protein: Int
+    let imageURL: String
+    let description: String
+    let calories: Int
+    let name: String
 }
 
 struct AppetizerList: Decodable {
@@ -29,7 +29,7 @@ struct MockData {
                                        price: 30,
                                        protein: 006,
                                        imageURL: "",
-                                       description: "blablabla",
+                                       description: "blablab this is ahjnoaidv andva odv oiahn iohdv oindinvoindndniala",
                                        calories: 90,
                                        name: "sally")
   

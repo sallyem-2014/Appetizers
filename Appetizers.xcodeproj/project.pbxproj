@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3A76729B2CA55A7E00877EE0 /* AppetizerDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A76729A2CA55A7E00877EE0 /* AppetizerDetailView.swift */; };
 		3A82CE462CA017BC00E4A2B5 /* AppetizerListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A82CE452CA017BC00E4A2B5 /* AppetizerListCell.swift */; };
 		3A82CE482CA018DE00E4A2B5 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A82CE472CA018DE00E4A2B5 /* NetworkManager.swift */; };
 		3A82CE4A2CA01A7200E4A2B5 /* APError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A82CE492CA01A7200E4A2B5 /* APError.swift */; };
@@ -25,6 +26,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3A76729A2CA55A7E00877EE0 /* AppetizerDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerDetailView.swift; sourceTree = "<group>"; };
 		3A82CE452CA017BC00E4A2B5 /* AppetizerListCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerListCell.swift; sourceTree = "<group>"; };
 		3A82CE472CA018DE00E4A2B5 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		3A82CE492CA01A7200E4A2B5 /* APError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APError.swift; sourceTree = "<group>"; };
@@ -117,6 +119,7 @@
 			children = (
 				3AEB17722C9EC58F00DACD91 /* AppetizerListView.swift */,
 				3A82CE452CA017BC00E4A2B5 /* AppetizerListCell.swift */,
+				3A76729A2CA55A7E00877EE0 /* AppetizerDetailView.swift */,
 			);
 			path = AppetizerListView;
 			sourceTree = "<group>";
@@ -242,6 +245,7 @@
 				3A9C18B22CA41AE600589131 /* LoadingView.swift in Sources */,
 				3A9C18B42CA42DC300589131 /* RemoteImage.swift in Sources */,
 				3A82CE482CA018DE00E4A2B5 /* NetworkManager.swift in Sources */,
+				3A76729B2CA55A7E00877EE0 /* AppetizerDetailView.swift in Sources */,
 				3AEB17632C9EC19500DACD91 /* AppetizersTapView.swift in Sources */,
 				3A9C18AD2CA2D79100589131 /* AppetizersVM.swift in Sources */,
 				3A9C18B02CA40D3700589131 /* Alert.swift in Sources */,
